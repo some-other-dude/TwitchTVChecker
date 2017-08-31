@@ -1,0 +1,49 @@
+body {
+    background-color: RGBA(70, 78, 90, 1.00);
+}
+
+.header-row {
+    padding-top: 50px;
+}
+
+.header-col {
+    text-align: center;
+    background-color: white;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    padding: 5px;
+}
+
+.content-row {
+    padding: 0px;
+    height: 60px;
+}
+
+.online{
+    background-color: lightgreen;
+    border-top: 1px solid black;
+}
+
+.offline {
+    background-color: lightyellow;
+    border-top: 1px solid black;
+}
+
+.stream-image {
+    padding: 4px;
+}
+
+.stream-logo {
+height: 50px;
+}
+
+.stream-info {
+    text-align: left;
+}
+
+.user-name {
+}
+
+.stream-desc {
+    font-style: italic;
+}
